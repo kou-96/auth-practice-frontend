@@ -1,4 +1,4 @@
-/* .wrapper {
+.wrapper {
   position: relative;
   width: 420px;
   height: 450px;
@@ -89,4 +89,4 @@ form .register-link {
 
 .register-link a:hover {
   text-decoration: underline;
-} */
+}
